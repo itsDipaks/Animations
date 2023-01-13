@@ -1,8 +1,11 @@
-
+body{
+    padding: 0;
+    margin: 0;
+}
 section{
 
     background: black;
-    height: 90vh;
+    height: 100vh;
     position: relative;
 }
 
